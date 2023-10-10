@@ -1,0 +1,20 @@
+.rectangle {
+    width: 30%;
+    height: 50%;
+    background: rgb(178, 174, 178);
+    margin: 15%;
+    color: rgb(68, 66, 66);
+  }
+  h1 {
+    display: flex;
+    justify-content: center;
+  }
+  .lab{
+      margin-left:7% ;
+      margin-top: 5%;
+  }
+  .ip{
+      margin-left:15%;
+      margin-top:5%;
+  }
+  
