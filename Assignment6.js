@@ -7,4 +7,4 @@ const billarray=[125,555,44];
 const tips=[calcTip(billarray[0]),calcTip(billarray[1]),calcTip(billarray[2])];
 const totals = [billarray[0] + tips[0], billarray[1] + tips[1], billarray[2] + tips[2]];
 
-console.log(billarray, tips, totals);
+console.log(billarray, tips, totals);fdfff
