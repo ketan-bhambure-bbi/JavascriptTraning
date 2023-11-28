@@ -12,4 +12,4 @@ function checkWinner(avgDolphins,avgKoalas){
         console.log('No team wins...');
     }
 }
-checkWinner(scoreDolphins,scoreKoalas);
+checkWinner(scoreDolphins,scoreKoalas);fggg
